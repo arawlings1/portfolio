@@ -46,15 +46,24 @@ Building on the previous map, this map identifies the regions of the city within
 [![](thumbnails/cambridge_bikeracks.png)](https://arawlings1.github.io/portfolio/fullsize/cambridge_bikeracks.pdf){target="_blank"}
 
 # Displaying Historical Data- Mexico City, MEX
+
 ## Urban extent, from 1982 to 2018
 These two maps compare a historical map of the urban extend of Mexico City in 1982, shown in grey, and the urban extent as measured through population density in 2018, shown in red. The historical (1982) map was accessed through Harvard University's map collection, then manually georeferenced using ArcGIS. Modern data on population density (2018) was accessed through the "Humanitarian Data Exchange," then overlaid on top of the 1982 historical map.
 [![](thumbnails/mex_urbanextent.png)](https://arawlings1.github.io/portfolio/fullsize/mex_urbanextent.pdf){target="_blank"}
 
 # Transportation Networks- Portland, OR
 
-## Walking x Grocery Stores
+## Walking x Farmer's Markets
+As part of a series of maps looking at food accessibility in Portland, Oregon, this map analyzes the walking travel time to the closest farmer's market for every neighborhood of the city. The 20 farmer's markets in Portland are also mapped.
+[![](thumbnails/pdx_walking.png)](https://arawlings1.github.io/portfolio/fullsize/pdx_walking.pdf){target="_blank"}
+
 ## Transit x Farmer's Markets
+This map analyzes public transportation access to the farmer's markets displayed above, but moves to displaying the regions of Portland as isochrones. The chosen isochrones display the regions that are within 15 minutes by transit, within 30 minutes by transit, and within an hour by transit to a farmer's market.
+[![](thumbnails/pdx_transit.png)](https://arawlings1.github.io/portfolio/fullsize/pdx_transit.pdf){target="_blank"}
+
 ## Walking x Food x Access
+The last map in the series analyzes the accessibility of food in Portland by looking at the areas of the city that are within a 10-minute walk of at least one grocery store and assigning areas with an accessibility score. The darker areas have a higher accessibility score, while the lighter blue areas have a lower accessibility score. This demonstrates that while everyone in Portland has some level of pedestrian access to a grocery store, accessibility decreases exponentially with distance.
+[![](thumbnails/pdx_accessibility.png)](https://arawlings1.github.io/portfolio/fullsize/pdx_accessibility.pdf){target="_blank"}
 
 # Interactive Maps- Idaho, USA
 
