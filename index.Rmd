@@ -1,6 +1,6 @@
 ---
-title: "Spatial Analysis Portfolio\n\n\n\n\n\nArielle Rawlings, Master in Public Policy and Master in Urban Planning"
-author: "Arielle Rawlings, Harvard Kennedy School Harvard Graduate School of Design"
+title: "Spatial Analysis Portfolio\n\n\n\n\n\nArielle Rawlings, Degree Candidate in Public Policy and Urban Planning"
+author: "Arielle Rawlings, Harvard Kennedy School and Harvard Graduate School of Design"
 date: "Fall 2021"
 output: 
   rmdformats::downcute
